@@ -1,3 +1,3 @@
 # ML-Stuff
-ML slides and Notebooks
+This is a repository of notebooks illustrating several ML concepts.ML slides and Notebooks
 
